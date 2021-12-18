@@ -21,7 +21,7 @@ const cart = () => {
     // cartCloseBtn.onclick = closeCart;
     cartCloseBtn.addEventListener('click', closeCart);
 
-    // console.dir(cartBtn); // вывод всех свойств обьекта 
+    // console.dir(cartBtn); // вывод всех свойств обьекта
 };
 
 export default cart;
